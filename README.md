@@ -1,1 +1,1 @@
-# test-commit
+Bu bir test commitidir.
